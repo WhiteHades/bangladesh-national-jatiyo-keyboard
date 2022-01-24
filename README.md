@@ -31,3 +31,4 @@ A keyboard layout by created the _Bangladesh Computer Council_ (BCC) on authorit
 - The full picture layout can be found [here](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/KB-Bengali-Jatiyo.svg/1200px-KB-Bengali-Jatiyo.svg.png)
 - Use this [site](https://www.typingstudy.com/bn-bengali-3/lesson/1) for learning the layout and this [site](https://10fastfingers.com/typing-test/bengali) for practising.
 - Use `⊞ Win` + `Space bar` for changing the input language.
+- Use 
